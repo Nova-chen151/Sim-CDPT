@@ -13,7 +13,6 @@ This repository contains the source code for our **AAAI 2026** paper:
 **Authors:** [Yuhang Chen](https://tops.tongji.edu.cn/info/1204/2419.htm)<sup>1</sup>, [Jie Sun](https://tops.tongji.edu.cn/info/1031/1921.htm)<sup>1,†</sup>, [Jialin Fan](https://fantastic8124.github.io/)<sup>1</sup>, [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)<sup>1</sup>
 
 <sup>1</sup> College of Transportation & Key Laboratory of Road and Traffic Engineering of Ministry of Education, Tongji University, Shanghai, China  
-<sup>†</sup> Corresponding author
 
 ---
 
