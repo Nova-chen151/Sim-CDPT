@@ -79,7 +79,7 @@ python script/test.py \
     --save_simulation
 ```
 
-Point `--test_path` at your **`tf_example`** data; pass `--model_path` to a trained checkpoint (both are required). Inference uses the student weights only—no teacher is loaded.
+Point `--test_path` at your **`tf_example`** data; pass `--model_path` to a trained checkpoint (both are required).
 
 ## Acknowledgements
 
